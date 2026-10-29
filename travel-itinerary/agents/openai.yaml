@@ -1,4 +1,4 @@
 interface:
-  display_name: "旅行手账与路线图"
+  display_name: "一键生成 省心旅行攻略"
   short_description: "规划顺路行程，制作共享网页与路线图"
   default_prompt: "使用 $travel-itinerary 为我的旅行规划顺路行程，并制作可共享的手机网页和简洁路线图片。"
