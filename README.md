@@ -86,37 +86,57 @@ Copy-Item -Recurse travel-itinerary-skill\travel-itinerary "$HOME\.codex\skills\
 
 ### 原版网页 · 五天图文案例
 
-以下截图取自原网页的本地脱敏副本，每天挑选两个行程模块展示。酒店、航班、日期和部分时间为示例，订单金额及部分私人备注已隐藏；截图不可用于实际出行。每一天下面的文字补充完整路线，截图只展示代表性节点。
+以下截图取自原网页的本地脱敏副本，每天挑选两个行程模块展示。酒店、航班、日期和部分时间为示例，订单金额及部分私人备注已隐藏；截图不可用于实际出行。每一天下面的文字补充完整路线，截图只展示代表性节点。点击图片可查看高清原图。
 
 #### DAY 01 · 抵达潮州：先安顿，再就近吃夜宵
 
 从揭阳潮汕机场取行李后直接去古城附近住宿，放下行李再在西侧吃夜宵；有余力可顺路看一小段开元路夜景。首选**西门鳝鱼粿条**，备选圆蛋酒料；官塘尚鱻鱼生·砂锅粥较远，需另乘车且经营待核。这样避免刚落地就带行李来回找店。
 
-<img src="docs/case-day-1-1.jpg" width="350" alt="第一天：打车前往古城住宿的原网页模块"> <img src="docs/case-day-1-2.jpg" width="350" alt="第一天：夜宵候选与高德导航的原网页模块">
+<p align="center">
+  <a href="docs/case-day-1-1.png"><img src="docs/case-day-1-1.png" width="340" alt="第一天：打车前往古城住宿的原网页模块"></a>
+  <a href="docs/case-day-1-2.png"><img src="docs/case-day-1-2.png" width="340" alt="第一天：夜宵候选与高德导航的原网页模块"></a>
+  <br><sub>左：机场接驳　｜　右：夜宵候选与导航</sub>
+</p>
 
 #### DAY 02 · 潮州古城：寺庙、短巷、广济桥与夜景
 
 从**兴记粿汁**早餐去开元寺，穿过一小段古城巷子到**胡荣泉**吃鸭母捻等小食，再经广济楼前往广济桥白天登桥。下午在韩江西岸与广济门城楼附近看江、坐坐；晚餐选东门街的**阿彬牛肉广济桥店**，饭后从西岸看灯光秀，再打车回住宿。白天与夜间都围绕广济桥一带，不额外跨区折返。
 
-<img src="docs/case-day-2-1.jpg" width="350" alt="第二天：开元寺游览模块"> <img src="docs/case-day-2-2.jpg" width="350" alt="第二天：广济桥白天登桥模块">
+<p align="center">
+  <a href="docs/case-day-2-1.png"><img src="docs/case-day-2-1.png" width="340" alt="第二天：开元寺游览模块"></a>
+  <a href="docs/case-day-2-2.png"><img src="docs/case-day-2-2.png" width="340" alt="第二天：广济桥白天登桥模块"></a>
+  <br><sub>左：开元寺　｜　右：广济桥白天登桥</sub>
+</p>
 
 #### DAY 03 · 潮州到汕头：西堤、小公园与朋友同行
 
 退房带行李后吃**谢记老牌肠粉**（文香肠粉为备选），直接跨城前往汕头东区入住，与朋友同行。午餐首选**隆江老尾猪脚饭**，然后乘车去西堤公园看海湾与礐石大桥，短途接驳到小公园中山纪念亭和骑楼；老城自由活动后，附近可选**飘香小食店、老二炒粿、福合埕牛肉丸**，再回东区住宿。没有反复回酒店的中转。
 
-<img src="docs/case-day-3-1.jpg" width="350" alt="第三天：西堤公园模块"> <img src="docs/case-day-3-2.jpg" width="350" alt="第三天：小公园骑楼模块">
+<p align="center">
+  <a href="docs/case-day-3-1.png"><img src="docs/case-day-3-1.png" width="340" alt="第三天：西堤公园模块"></a>
+  <a href="docs/case-day-3-2.png"><img src="docs/case-day-3-2.png" width="340" alt="第三天：小公园骑楼模块"></a>
+  <br><sub>左：西堤公园　｜　右：小公园骑楼</sub>
+</p>
 
 #### DAY 04 · 南澳岛：看海、吃海鲜与海钓
 
 东区附近早餐后出发，先短停**长山尾灯塔**，再沿海去**前江湾**；后宅午餐首选渔夫小炒店，备选阿伟海鲜坊、好再来饭店。沙滩坐坐后，前往待确认的集合点登船，预留约三小时海钓；返城后在东区吃潮卤道卤水鹅类晚餐，再回住宿整理行李。若风浪或船班不允许出海，则保留沙滩慢游，视返程路线考虑钱澳湾灯塔。
 
-<img src="docs/case-day-4-1.jpg" width="350" alt="第四天：前江湾看海模块"> <img src="docs/case-day-4-2.jpg" width="350" alt="第四天：海钓安排模块">
+<p align="center">
+  <a href="docs/case-day-4-1.png"><img src="docs/case-day-4-1.png" width="340" alt="第四天：前江湾看海模块"></a>
+  <a href="docs/case-day-4-2.png"><img src="docs/case-day-4-2.png" width="340" alt="第四天：海钓安排模块"></a>
+  <br><sub>左：前江湾　｜　右：海钓计划</sub>
+</p>
 
 #### DAY 05 · 汕头返程：退房后留足机场余量
 
 早餐提前准备，当天起床洗漱、退房带齐行李，按固定返程时间倒推乘车前往**揭阳潮汕机场**，预留路程及办理手续时间，再搭乘航班返程。截图中的示例时间和酒店并非真实订单。
 
-<img src="docs/case-day-5-1.jpg" width="350" alt="第五天：退房准备模块"> <img src="docs/case-day-5-2.jpg" width="350" alt="第五天：前往机场的交通模块">
+<p align="center">
+  <a href="docs/case-day-5-1.png"><img src="docs/case-day-5-1.png" width="340" alt="第五天：退房准备模块"></a>
+  <a href="docs/case-day-5-2.png"><img src="docs/case-day-5-2.png" width="340" alt="第五天：前往机场的交通模块"></a>
+  <br><sub>左：退房准备　｜　右：机场接驳</sub>
+</p>
 
 截图保留案例中的景点及餐饮候选；门店营业、景点开放、交通以及海钓码头与船位都需要出行前重新确认。
 
