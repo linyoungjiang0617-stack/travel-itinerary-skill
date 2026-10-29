@@ -86,7 +86,7 @@ Copy-Item -Recurse travel-itinerary-skill\travel-itinerary "$HOME\.codex\skills\
 
 ### 原版网页 · 功能展示
 
-以下截图来自潮汕网页的本地脱敏副本，按功能选择代表性模块；酒店、航班、日期及部分时间已替换为示例，订单金额和部分私人备注已隐藏。点击图片可查看高清原图。
+以下截图来自潮汕网页的本地脱敏副本，按功能选择代表性模块；酒店、航班、日期及部分时间已替换为示例，订单金额和部分私人备注已隐藏；预算展示数值为虚构示例。点击图片可查看原图。
 
 #### 🗺️ 行程卡片与地图导航
 
@@ -106,13 +106,47 @@ Copy-Item -Recurse travel-itinerary-skill\travel-itinerary "$HOME\.codex\skills\
 
 <p align="center"><a href="docs/case-day-4-2.png"><img src="docs/case-day-4-2.png" width="400" alt="待确认的海钓集合点：提示和地图搜索入口"></a></p>
 
-#### 📋 其他实用板块
+#### ⏱️ 当前与接下来
 
-- **当前与接下来**：结合时间、计划和打卡状态显示当前及下一项；过时未打卡只提醒，不自动完成。
-- **路线总览**：按日查看行程、必玩与可选项目，时间或体力有限时方便取舍。
-- **住宿、美食和景点**：集中查看住处、特色餐饮和目的地，不必逐张翻找行程卡片。
-- **预算明细**：记录两人实付，查看总额、人均和逐项明细；已确认订单金额受保护。
-- **天气取舍**：提供海岛行程的人工调整思路，不会自动更改计划。
+首页结合时间、行程和打卡进度显示当前或下一项，并提供查看项目和地图入口。计划时间已过但没有打卡时只会提醒，不会自动标记完成。
+
+<p align="center"><a href="docs/case-feature-progress.png"><img src="docs/case-feature-progress.png" width="400" alt="实时进度卡片：下一项、打卡进度和地图入口"></a></p>
+
+#### 🧭 路线总览与必玩、可选
+
+按日期一眼查看每天的路线，点击日期可跳转对应行程；下方把必玩与可选项目分开，方便时间不足或体力有限时调整。
+
+<p align="center"><a href="docs/case-feature-route.png"><img src="docs/case-feature-route.png" width="400" alt="五天路线总览及必玩、可选项目"></a></p>
+
+#### 🛏️ 住宿一览
+
+集中展示旅行中的住宿位置和入住天数，方便随时查看或进入地图核对。截图中的酒店与日期均为示例，已确认订单的真实金额未公开。
+
+<p align="center"><a href="docs/case-feature-stay.png"><img src="docs/case-feature-stay.png" width="400" alt="住宿一览：两处示例酒店及入住天数"></a></p>
+
+#### 🍽️ 每天吃什么
+
+集中查看每天的餐饮安排；选择餐厅后相应内容同步更新，尚未选择时显示第一候选，方便对照行程查看。
+
+<p align="center"><a href="docs/case-feature-food.png"><img src="docs/case-feature-food.png" width="400" alt="餐饮一览：按天显示早餐、午餐和晚餐"></a></p>
+
+#### 📍 目的地一览
+
+将旅行中的景点集中列出，附对应日期和预计时间，便于快速查看想去的地方。截图中的日期和部分时刻为示例。
+
+<p align="center"><a href="docs/case-feature-places.png"><img src="docs/case-feature-places.png" width="400" alt="景点一览：日期、预计时间与目的地"></a></p>
+
+#### 💰 预算明细
+
+汇总两人预估与已记账金额，并计算人均费用；展开后可按天查看明细。已确认订单金额受保护，其余费用可在消费后填写实付。截图中的金额均为虚构示例。
+
+<p align="center"><a href="docs/case-feature-budget.png"><img src="docs/case-feature-budget.png" width="400" alt="预算汇总：示例总额、人均、记账与明细入口"></a></p>
+
+#### ☀️ 天气与行程取舍
+
+提供天气、交通或活动取消时的人工调整建议，并附天气信息入口；是否更改路线由旅行者自行决定，网页不会自动更改行程。
+
+<p align="center"><a href="docs/case-feature-weather.png"><img src="docs/case-feature-weather.png" width="400" alt="天气与交通提示：出行前核查与人工调整建议"></a></p>
 
 **功能范围：**网页提供资料入口和准备提醒，不代购车票、机票或门票，不代订酒店、餐厅或海钓，也不自动取号、约车或付款；没有承诺实时排队数据。
 
